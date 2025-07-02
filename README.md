@@ -90,12 +90,12 @@
             <ul>
                 <li><strong>Bachelor of Technology - Computer Science Engineering</strong></li>
                 <li> West Godavari Institute of Science and Engineering collage <br>
-                2023 – 2027 | prakasraopalem, Nallajerlla ,Andhra Pradesh,534112 | CGPA: 8.79</li>
+                2023 – 2027 | prakasraopalem, Nallajerlla ,Andhra Pradesh,534112 | CGPA: 7.0</li>
                 <li><strong>Pre University Course - MPC</strong></li>
                 <li> Pragathi Juniour collage <br>
-                2021 – 2023 | Tanuku, Andhra Pradesh ,534216| CGPA: 8.5</li>
+                2021 – 2023 | Tanuku, Andhra Pradesh ,534216| CGPA: 8.0</li>
                 <li><strong>SSC</strong>, Zilla Parishath High School<br>
-                2020 – 2021 | Undrajavaram, Andhra Pradesh,534216 | GPA: 9.8</li>
+                2020 – 2021 | Undrajavaram, Andhra Pradesh,534216 | GPA: 9.0</li>
             </ul>
         </div>
 
